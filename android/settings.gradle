@@ -1,0 +1,3 @@
+rootProject.name = 'rnignitetest1_86'
+
+include ':app'
